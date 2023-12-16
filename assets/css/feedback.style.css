@@ -486,6 +486,7 @@
     }
 }
 .div-40 {
+    cursor: pointer;
     color: #0071e3;
     flex-grow: 1;
     white-space: nowrap;
